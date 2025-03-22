@@ -1,5 +1,7 @@
 # Utility helper functions
+# Updated import
 import numpy as np
+# Updated import
 import pandas as pd
 
 def normalize_data(data):
